@@ -1851,13 +1851,13 @@ Source: http://www.semiconductors.philips.com/acrobat_download/datasheets/74HC_H
 <signal name="4">
 <contactref element="J1" pad="3"/>
 <contactref element="R2" pad="P$2"/>
-<wire x1="3.556" y1="19.685" x2="6.985" y2="16.256" width="0.3048" layer="16"/>
+<wire x1="3.556" y1="19.685" x2="6.858" y2="16.383" width="0.3048" layer="16"/>
 <wire x1="-2.54" y1="29.083" x2="1.143" y2="29.083" width="0.3048" layer="16"/>
 <wire x1="1.143" y1="29.083" x2="3.556" y2="26.67" width="0.3048" layer="16"/>
 <wire x1="3.556" y1="26.67" x2="3.556" y2="19.685" width="0.3048" layer="16"/>
-<wire x1="6.985" y1="16.256" x2="23.114" y2="16.256" width="0.3048" layer="16"/>
+<wire x1="6.858" y1="16.383" x2="23.241" y2="16.383" width="0.3048" layer="16"/>
 <wire x1="31.5" y1="24.642" x2="31.5" y2="41.01" width="0.3048" layer="16"/>
-<wire x1="23.114" y1="16.256" x2="31.5" y2="24.642" width="0.3048" layer="16"/>
+<wire x1="23.241" y1="16.383" x2="31.5" y2="24.642" width="0.3048" layer="16"/>
 </signal>
 <signal name="3">
 <contactref element="J1" pad="2"/>
