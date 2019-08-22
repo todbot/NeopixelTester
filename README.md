@@ -11,4 +11,4 @@ In this repo:
 
 Boards available on OSHPark:
 https://oshpark.com/shared_projects/BqFE6DLx
-<img src="./docs/neopixeltester-35mmad-top.png" width="325"><img src="./docs/neopixeltester-35mmad-top.png" width="325">
+<img src="./docs/neopixeltester-35mmad-top.png" width="325"><img src="./docs/neopixeltester-35mmad-bot.png" width="325">
