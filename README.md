@@ -18,9 +18,11 @@ Click the pic to watch the video
 
 Boards available on OSHPark:
 https://oshpark.com/shared_projects/BqFE6DLx
+
 <img src="./docs/neopixeltester-35mmad-top.png" width="325"><img src="./docs/neopixeltester-35mmad-bot.png" width="325">
 
 Or you can mill your own with an Othermill/Bantam tools PCB mill. The board is designed to be single-sided milled with only three straight jumpers.
+
 <img src="./docs/neopixeltester-othermill.jpg" width="500">
 
 
