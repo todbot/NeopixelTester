@@ -8,13 +8,20 @@ In this repo:
 
 <img src="./docs/neopixeltester-desktop.jpg" width="500">
 
-https://youtu.be/KODPj4VacQQ
+
+## Video of how it works
+Click the pic to watch the video
+[![Watch the video](./docs/neopixeltester-video-click.jpg)](https://youtu.be/KODPj4VacQQ)
+
+
+## PCBs
 
 Boards available on OSHPark:
 https://oshpark.com/shared_projects/BqFE6DLx
 <img src="./docs/neopixeltester-35mmad-top.png" width="325"><img src="./docs/neopixeltester-35mmad-bot.png" width="325">
 
 
+## Bill of Materials
 Bill of materials:
 - Adafruit Trinket M0
 - Adafruit 35mm slide pots x 3
